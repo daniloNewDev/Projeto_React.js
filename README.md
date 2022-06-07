@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Primeiro Projeto React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  Neste repositório em criação está meu primeiro projeto em React.js, seguindo o tutorial do canal
+Hora de Codar.
 
-## Available Scripts
+## Primeiros Passos:
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  Começando do zero, na primeira aula foi realizado o primeiro Setup, instalando os pacotes do React
+create-react-app + o nome da pasta do projeto. Em seguida instalando as dependências "json-server"
+que simula um Back-end para que seja possível realizar requisições de API, como resgatar dados, enviar
+ou editar dados, "react-icons", para adcionar ícones, "react-router-dom" para manipular rotas da
+aplicação e também a biblioteca "uuid" que atribui Id's para criar os Id's quando necessário para usar
+os dados no Banco de Dados.
+  Neste primeiro momento foram criados os estilos globais do projeto, como tirar o padding e margin dos
+elementos, atribuída a font do texto do projeto, cor de fundo e altura ideal para manter o Footer colado
+no fim da página.
+  As imagens do projeto foram extraídas do [repositório](https://github.com/matheusbattisti/curso_react_yt/tree/16_projeto_costs/src/img) do curso
