@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "name": "projeto 2 update",
+      "budget": "13000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "novo projeto",
+      "budget": "900",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 50,
+      "services": [
+        {
+          "name": "despesas",
+          "cost": "50",
+          "description": "papelaria",
+          "id": "9b8c71e0-22bb-48f2-a62e-c31688d015d5"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Projeto Net",
+      "budget": "1300",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 900,
+      "services": [
+        {
+          "name": "Novo serviço",
+          "cost": "300",
+          "description": "custas",
+          "id": "5be65b28-ee44-43b1-8c1f-63ea593b5e0d"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "300",
+          "description": "custas",
+          "id": "5be65b28-ee44-43b1-8c1f-63ea593b5e0d"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "300",
+          "description": "custas",
+          "id": "5be65b28-ee44-43b1-8c1f-63ea593b5e0d"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
